@@ -629,7 +629,7 @@
     #slide4
     {
         margin : 0;
-        padding : 0;
+        padding : 0 0 50px 0;
         height : auto;
         width: 100%;
         background: url(../Images/slide4.jpg) no-repeat center fixed;
@@ -639,7 +639,7 @@
     }
 
     .lignetime-Exp-Pro {
-        height: 750px;
+        height: 1000px;
         width: 12px;
         margin: 0 auto;
         background: rgb(177, 7, 7);
@@ -1228,7 +1228,7 @@
     .lignetime-Exp-Pro {
         position: relative;
         left: 200px;
-        height: 750px;
+        height: 1100px;
     }
     .box-timeline
     {
@@ -1479,7 +1479,7 @@
         }
         .box-timeline-Exp-Pro
         {
-            height: 1250px;
+            height: 1650px;
             padding-bottom: 500px;
         }
         .rond
@@ -1510,7 +1510,7 @@
         .b2-Exp-Pro
         {
             height: auto;
-            top: 420px;
+            top: 480px;
         }
         .b3
         {
@@ -1520,12 +1520,17 @@
         .b3-Exp-Pro
         {
             height: auto;
-            top: 860px;
+            top: 880px;
         }
         .b4
         {
             height: auto;
             top: 1340px;
+        }
+        .b4-Exp-Pro
+        {
+            height: auto;
+            top: 1330px;
         }
         .b5
         {
